@@ -39,11 +39,11 @@ To run the app, Go to __FRONEND__ folder and shoot this command:
 streamlit run Resnet.py
 ```
 
-## RUN the App
-To run the app, Go to __FRONEND__ folder and shoot this command:              
-```bash
-streamlit run Resnet.py
-```
+
+## From web UI 
+ - select model
+ - upload image
+ - click the **Predict** button to predict
 
 
 |  	| 	| 	|
