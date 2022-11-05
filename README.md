@@ -12,7 +12,7 @@ In this project, Five different types of ECG beats are taken into account to cla
  - Fusion beats
  - Unknown beats
 
-I am not expert in analyzing __ECG__ signal but have background in signal processing. So, my basic intiution regarding __ECG__ heart beat [see the Figure below, [Source](https://en.wikipedia.org/wiki/Electrocardiography) is segmented into
+I am not expert in analyzing __ECG__ signal but have background in signal processing. So, my basic intiution regarding __ECG__ heart beat [see the Figure below,Source [Source](https://en.wikipedia.org/wiki/Electrocardiography) is segmented into
 __P,Q,R,S,T__. and its intervals. The duration and the magnitude of those segments may be used to identify the type of __ECG__ beat as mentioned before.
 <p align="center">
 <img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/SinusRhythmLabels.svg.png" width="550" height="350">
