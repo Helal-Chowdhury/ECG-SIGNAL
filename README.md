@@ -19,11 +19,6 @@ __P,Q,R,S,T__. and its intervals. The duration and the magnitude of those segmen
  </p>
 
 ### How to create project environment and install packages:
-This project is divided into three parts:
- - Image Collections (IMAGE-COLLECTION_AND_SPLITFOLDER)
- - Training (BACKEND)
- - Deployment (FRONEND)
-
 
 1. install packages
 ```bash
@@ -36,7 +31,7 @@ pip install <package name>
 ## RUN the App
 To run the app, Go to __FRONEND__ folder and shoot this command:              
 ```bash
-streamlit run Resnet.py
+streamlit run ECG.py
 ```
 
 
@@ -48,4 +43,4 @@ This will generate the prediction and the underlying plots for visualisation
 
 |  	| 	| 	|
 |---	|---	|---	|
-|<img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/sig1.png" width="300" height="150"> 	| <img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/Signal_v2.png" width="300" height="150">  	|  <img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/sig3.png" width="300" height="150"> 	|
+|<img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/sig1.png" width="300" height="150"> 	| <img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/Signal_v2.png" width="400" height="200">  	|  <img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/sig3.png" width="400" height="200"> 	|
