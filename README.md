@@ -11,7 +11,9 @@ In this project, Five different types of ECG signals are taken into account to c
  -  signal 3
  -  signal 4
  -  signal 5
-
+<p align="center">
+<img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/SinusRhythmLabels.svg.png" width="550" height="350">
+ </p>
 
 A template has been made for any general purpose Image Classifications problems. The project folder consists of three folders: _IMAGE_COLLECTION_FOLDERS_, _BACKEND, and _FRONEND_. For demonstration, I choose  five fruit classes. However, you can choose any class of images by using Hugging face image collection API. I use Pytorch, and Streamlit for training and deployment. Pre-trained Models: Resnet18 and Densnet109 models. However, you can find tons of pre-trained image classification models from 
 
