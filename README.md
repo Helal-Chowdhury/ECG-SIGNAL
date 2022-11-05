@@ -39,6 +39,11 @@ To run the app, Go to __FRONEND__ folder and shoot this command:
 streamlit run Resnet.py
 ```
 
+## RUN the App
+To run the app, Go to __FRONEND__ folder and shoot this command:              
+```bash
+streamlit run ECG.py
+
 |  	| 	| 	|
 |---	|---	|---	|
 |<img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/sig1.png" width="300" height="150"> 	| <img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/Signal_v2.png" width="300" height="150">  	|  <img src="https://github.com/Helal-Chowdhury/ECG-SIGNAL/blob/main/sig3.png" width="300" height="150"> 	|
