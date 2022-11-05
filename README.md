@@ -40,10 +40,10 @@ streamlit run Resnet.py
 ```
 
 
-## From web UI 
- - select model
- - upload image
- - click the **Predict** button to predict
+## From Web UI 
+ - Select Signal
+
+This will generate the prediction and the underlying plots for visualisation
 
 
 |  	| 	| 	|
