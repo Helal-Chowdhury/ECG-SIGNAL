@@ -20,13 +20,17 @@ __P,Q,R,S,T__. and its intervals. The duration and the magnitude of those segmen
 
 ### How to create project environment and install packages:
 
-1. install packages
+Create Environment and Installation Packages
+
 ```bash
-conda env update -n <yourenvname> --file environment.yaml
+conda create --name <environment name> python=3.8
+conda activate <environment name>
+pip install -r requirements.txt
 ```
-Some packages have pip dependency. In this case, use  pip to install the packages.
+In case you have difficulties with installation of specific version of tensorflow and other package use the following commands to install:
 ```bash
-pip install <package name>
+pip install tensorflow==x.x.x --no-cache-dir
+pip install <package name>==x.x.x  --no-cache-dir
 ```
 ## RUN the App
 To run the app, Go to __FRONEND__ folder and shoot this command:              
