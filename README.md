@@ -32,6 +32,11 @@ In case you have difficulties with installation of specific version of tensorflo
 pip install tensorflow==x.x.x --no-cache-dir
 pip install <package name>==x.x.x  --no-cache-dir
 ```
+
+Due to push limit in Github (A single filesize should be less than 100MB).
+However, To run ECG.py you need 'mitbih_test.csv. Visit the [Link](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) to download the mitbih_test.csv' file.
+
+
 ## RUN the App
 To run the app, Go to __FRONEND__ folder and shoot this command:              
 ```bash
